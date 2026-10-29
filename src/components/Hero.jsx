@@ -28,14 +28,14 @@ export default function Hero() {
         <span className="cursor">|</span>
       </h2>
 
-      <div className="mt-4">
-        <h5 style={{ fontSize: "1.2rem", color: "rgb(148, 163, 184)" }}>
-          Hey! I'm a <span className="text-teal">Software Engineer</span> with a passion for <span className="text-teal">Web Development</span>
+      <div className="mt-4 px-3" style={{ maxWidth: "850px", margin: "0 auto" }}>
+        <h5 style={{ fontSize: "1.2rem", color: "rgb(148, 163, 184)", lineHeight: 1.8 }}>
+          Hey! I'm a <span className="text-teal">Full-Stack Developer</span> with a strong passion for scalable web development and expertise across the <span className="text-teal">modern MERN stack</span>.
         </h5>
-        <h5 style={{ fontSize: "1.2rem", color: "rgb(148, 163, 184)" }}>
-          and a keen interest in <span className="text-teal">Javascript and React</span>
+        <h5 style={{ fontSize: "1.2rem", color: "rgb(148, 163, 184)", lineHeight: 1.8 }}>
+          From crafting intuitive frontend interfaces with <span className="text-teal">React</span> to engineering robust backend systems in <span className="text-teal">Node.js and TypeScript</span>, I love turning complex ideas into seamless digital experiences.
         </h5>
-        <h5 style={{ fontSize: "1.2rem", color: "rgb(148, 163, 184)" }}>
+        <h5 style={{ fontSize: "1.2rem", color: "rgb(148, 163, 184)", lineHeight: 1.8 }}>
           Take a look around to see my projects and dive into my world of tech innovation!
         </h5>
       </div>
